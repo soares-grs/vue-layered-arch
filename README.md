@@ -1,4 +1,4 @@
-# Vue Layered Arch Example
+# Vue Layered Arch
 
 Este projeto tem como objetivo ser um exemplo de implementação (ou até mesmo um _boilerplate_) do que chamamos de **EFA (Elegant Front-end Architecture)**. Essa abordagem é uma combinação de arquiteturas e _design patterns_ clássicos, podendo ser considerada o equivalente ao **DDD (Domain-Driven Design)** no contexto do front-end.
 
